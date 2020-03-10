@@ -18,7 +18,7 @@
 
    
    const ISS_url = 'https://api.wheretheiss.at/v1/satellites/25544';
-   const people_url = 'https://api.open-notify.org/astros.json';
+   const people_url = 'http://api.open-notify.org/astros.json';
 
    let initialize = true;
 
