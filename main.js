@@ -9,7 +9,7 @@
 
    // Making a marker with a custom icon
    const issIcon = L.icon({
-       iconUrl: 'iss.png',
+       iconUrl: 'images/iss.png',
        iconSize:     [50, 32], // size of the icon
        iconAnchor:   [25, 16], // point of the icon which will correspond to marker's location   
    });
